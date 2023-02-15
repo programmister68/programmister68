@@ -1,4 +1,4 @@
-<p><img src="https://github.com/programmister68/programmister68/blob/main/fumo.gif" alt="Fumo Abuse" align="center"></p>
+<p><img src="https://github.com/programmister68/programmister68/blob/main/fumo.gif" alt="Fumo Abuse" align="right"></p>
   
 <p align="center"> 
   Visitor count<br>
