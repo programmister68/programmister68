@@ -1,5 +1,5 @@
 <p align="center">
-  (https://github.com/programmister68/programmister68/fumo.gif)  
+  (https://github.com/programmister68/programmister68/blob/main/fumo.gif)  
 </p>
 
 <p align="center"> 
