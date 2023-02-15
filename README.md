@@ -5,5 +5,5 @@
   <img src="https://profile-counter.glitch.me/programmister68/count.svg" />
 </p>
 <p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=programmister68&theme=dark&background=000000)](https://git.io/streak-stats)
  </p>
