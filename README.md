@@ -5,7 +5,16 @@
       <th><p align = "center" > 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/programmister68/count.svg" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=programmister68&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=programmister68&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" 
+   alt="my Github Stats"/>
+   <p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>
 
 </p></th>
     </tr>
