@@ -1,5 +1,5 @@
 <p align = "center" > 
-<table>
+<table style="border: 1px none rgb(0, 0, 0);">
  <tr>
       <th><p><img src="https://github.com/programmister68/programmister68/blob/main/murder.gif" align="left" width="320px"></p></th>
       <th><p align = "center" > 
